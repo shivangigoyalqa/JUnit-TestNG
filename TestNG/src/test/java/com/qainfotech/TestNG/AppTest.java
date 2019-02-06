@@ -12,7 +12,7 @@ public class AppTest
     public void TestExample() {
 	App a1 = new App();
     ArrayList<String> list=new ArrayList<String>();
-    list.add("");
+    list.add("apple");
     list.add("qait");
     list.add("hello");
     ArrayList<String> result=new ArrayList<String>();
